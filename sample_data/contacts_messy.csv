@@ -1,0 +1,5 @@
+Full Name,Email,Last Clean Date,Clean Type,Invoice Amount (Brutto)
+Alice Zhang,alice@example.com,2025-12-01,Deep,120.50
+Alice  Zhang ,alice@example.com,2025/12/12,Standard,89.00
+Bob Li,bob@example.com,not_a_date,Standard,60
+Charlie,,2025-11-11,Deep,300
